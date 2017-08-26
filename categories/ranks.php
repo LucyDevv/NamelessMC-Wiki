@@ -77,11 +77,11 @@ $page = 'wiki'; // for navbar
 	    <div class="col-md-3">
 	        
 	        <div class="list-group">
-  <a href="wiki/index.php" class="list-group-item active">
+  <a href="index.php" class="list-group-item">
     <h4 class="list-group-item-heading">Home</h4>
     <p class="list-group-item-text">Index page, contains the overview for the wiki and some wiki infomation.</p>
   </a>
-  <a href="wiki/ranks/" class="list-group-item">
+  <a href="categories/ranks.php" class="list-group-item active">
     <h4 class="list-group-item-heading">Ranks</h4>
     <p class="list-group-item-text">Infomation on the various Mythix Ranks, normal, donator and staff!</p>
   </a>
